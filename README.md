@@ -5,7 +5,7 @@
 💡 Built with JavaScript + HTML5 Canvas + DSA Algorithms
 
 ## 🌐 Live Demo
-👉 [Open Project](https://yourusername.github.io/visupath-evacuation-simulator/)
+👉 [Open Project](https://omashrit-patel.github.io/Visupath-evacuation-simulator/)
 
 ## ✨ Features
 - Multiple Pathfinding Algorithms
