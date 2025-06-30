@@ -15,7 +15,8 @@
 - Wall Locking / Reset Controls
 
 ## 📸 Screenshots
-*(Add later)*
+![image](https://github.com/user-attachments/assets/3c5c2c63-68cf-4655-80ab-0f8b6e8fa4f0)
+
 
 ## 🧠 Algorithms Used
 - Breadth First Search (BFS)
