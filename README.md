@@ -105,7 +105,7 @@ After every simulation, you get a performance summary:
 **Om Ashrit Patel**  
 BTech CSE (AI/ML) | Final Year  
 💡 Interested in solving real-world problems with AI, automation, and DSA  
-📫 [LinkedIn](https://www.linkedin.com/in/omashritpatel)
+📫 [LinkedIn](https://www.linkedin.com/in/om-ashrit-patel-b67b0b267/)
 
 ---
 
